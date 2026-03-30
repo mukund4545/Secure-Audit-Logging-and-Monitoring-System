@@ -148,7 +148,7 @@ run.bat
 
 Or manually:
 ```bash
-java -cp "SecureAuditSystem.jar:lib/mysql-connector-j-8.x.x.jar" com.audit.menu.MainMenu
+java -cp "out;lib\mysql-connector-j-9.6.0.jar" com.audit.menu.MainMenu
 ```
 
 ---
