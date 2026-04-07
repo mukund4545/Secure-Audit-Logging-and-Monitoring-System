@@ -9,7 +9,7 @@
 - Aseem Kelkar (24070122272)
 - Het Bhalani (25070122513)
 
-**Guide:** Anuradha Pillai
+
 
 ---
 
