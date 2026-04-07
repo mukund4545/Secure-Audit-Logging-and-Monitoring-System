@@ -2,8 +2,7 @@
 ### DBMS Project — OWASP A10: Insufficient Logging & Monitoring
 **Symbiosis Institute of Technology, Pune — Department of Computer Science**
 
-**Team:** Mukund Ganesh Prajapati (240701222) · Vikas Kumar (24070122275) · Aseem Kelkar (24070122272) · Het Bhalani  
-**Guide:** Anuradha Pillai
+**Team:** Mukund Prajapati (24070122280) · Vikas Kumar (24070122275) · Aseem Kelkar (24070122272) · Het Bhalani (25070122513)  
 
 ---
 
